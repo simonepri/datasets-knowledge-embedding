@@ -12,7 +12,19 @@ def compress_dataset(dir, name, files):
 def main():
   os.makedirs('dist', exist_ok=True)
 
-  datasets = ['FB15K', 'FB15K-237', 'WN18', 'WN18RR', 'YAGO3-10']
+  datasets = [
+    'COUNTRIES-S1',
+    'COUNTRIES-S2',
+    'COUNTRIES-S3',
+    'FB15K',
+    'FB15K-237',
+    'KINSHIP',
+    'NATIONS',
+    'UMLS',
+    'WN18',
+    'WN18RR',
+    'YAGO3-10'
+  ]
   for dataset in datasets:
     compress_dataset('dist', dataset + '-ID', [
       dataset + '/edges_as_id_all.tsv',
