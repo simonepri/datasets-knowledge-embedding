@@ -60,7 +60,7 @@ The link to the original dataset as released by the authors is unknown but a cop
 
 ### FB15K
 This dataset was introduced in [Translating Embeddings for Modeling Multi-relational Data](https://dl.acm.org/doi/10.5555/2999792.2999923).  
-The original dataset as release by the authors is available [here](https://everest.hds.utc.fr/doku.php?id=en:transe).
+The original dataset as released by the authors is available [here](https://everest.hds.utc.fr/doku.php?id=en:transe).
 
 | Entities | Relation Types | Edges | Train Edges | Validation Edges | Test Edges |
 |----------|----------------|-------|-------------|------------------|------------|
@@ -72,7 +72,7 @@ The original dataset as release by the authors is available [here](https://evere
 
 ### FB15K-237
 This dataset was introduced in [Observed versus latent features for knowledge base and text inference](https://www.aclweb.org/anthology/W15-4007/).  
-The original dataset as release by the authors is available [here](https://www.microsoft.com/en-us/download/details.aspx?id=52312).
+The original dataset as released by the authors is available [here](https://www.microsoft.com/en-us/download/details.aspx?id=52312).
 
 | Entities | Relation Types | Edges | Train Edges | Validation Edges | Test Edges |
 |----------|----------------|-------|-------------|------------------|------------|
@@ -84,7 +84,7 @@ The original dataset as release by the authors is available [here](https://www.m
 
 ### KINSHIP
 This dataset was introduced in [Learning systems of concepts with an infinite relational model](https://dl.acm.org/doi/10.5555/1597538.1597600).  
-The original dataset as release by the authors is available [here](http://www.charleskemp.com/code/irm.html).
+The original dataset as released by the authors is available [here](http://www.charleskemp.com/code/irm.html).
 
 | Entities | Relation Types | Edges | Train Edges | Validation Edges | Test Edges |
 |----------|----------------|-------|-------------|------------------|------------|
@@ -96,7 +96,7 @@ The original dataset as release by the authors is available [here](http://www.ch
 
 ### NATIONS
 This dataset was introduced in [Learning systems of concepts with an infinite relational model](https://dl.acm.org/doi/10.5555/1597538.1597600).  
-The original dataset as release by the authors is available [here](http://www.charleskemp.com/code/irm.html).
+The original dataset as released by the authors is available [here](http://www.charleskemp.com/code/irm.html).
 
 | Entities | Relation Types | Edges | Train Edges | Validation Edges | Test Edges |
 |----------|----------------|-------|-------------|------------------|------------|
@@ -108,7 +108,7 @@ The original dataset as release by the authors is available [here](http://www.ch
 
 ### UMLS
 This dataset was introduced in [Learning systems of concepts with an infinite relational model](https://dl.acm.org/doi/10.5555/1597538.1597600).  
-The original dataset as release by the authors is available [here](http://www.charleskemp.com/code/irm.html).
+The original dataset as released by the authors is available [here](http://www.charleskemp.com/code/irm.html).
 
 | Entities | Relation Types | Edges | Train Edges | Validation Edges | Test Edges |
 |----------|----------------|-------|-------------|------------------|------------|
@@ -120,7 +120,7 @@ The original dataset as release by the authors is available [here](http://www.ch
 
 ### WN18
 This dataset was introduced in [Translating Embeddings for Modeling Multi-relational Data](https://dl.acm.org/doi/10.5555/2999792.2999923).  
-The original dataset as release by the authors is available [here](https://everest.hds.utc.fr/doku.php?id=en:transe).
+The original dataset as released by the authors is available [here](https://everest.hds.utc.fr/doku.php?id=en:transe).
 
 | Entities | Relation Types | Edges | Train Edges | Validation Edges | Test Edges |
 |----------|----------------|-------|-------------|------------------|------------|
@@ -132,7 +132,7 @@ The original dataset as release by the authors is available [here](https://evere
 
 ### WN18RR
 This dataset was introduced in [Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/abs/1707.01476).  
-The original dataset as release by the authors is available [here](https://github.com/TimDettmers/ConvE).
+The original dataset as released by the authors is available [here](https://github.com/TimDettmers/ConvE).
 
 | Entities | Relation Types | Edges | Train Edges | Validation Edges | Test Edges |
 |----------|----------------|-------|-------------|------------------|------------|
@@ -144,7 +144,7 @@ The original dataset as release by the authors is available [here](https://githu
 
 ### YAGO3-10
 This dataset was introduced in [Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/abs/1707.01476).  
-The original dataset as release by the authors is available [here](https://github.com/TimDettmers/ConvE).
+The original dataset as released by the authors is available [here](https://github.com/TimDettmers/ConvE).
 
 | Entities | Relation Types | Edges | Train Edges | Validation Edges | Test Edges |
 |----------|----------------|-------|-------------|------------------|------------|
