@@ -166,7 +166,7 @@ Once you did this, you can simply process the three files with the following bas
 bash build.sh train.tsv valid.tsv test.tsv .
 ```
 
-The script uses the [datasets-knowledge-embedding][github:simonepri/datasets-knowledge-embedding] tool under the hood.
+The script uses the [edgelist-mapper][github:simonepri/edgelist-mapper] tool under the hood.
 
 
 ## Authors
@@ -187,4 +187,4 @@ This project is licensed under the MIT License - see the [license][license] file
 
 [github:simonepri]: https://github.com/simonepri
 
-[github:simonepri/datasets-knowledge-embedding]: https://github.com/simonepri/datasets-knowledge-embedding
+[github:simonepri/edgelist-mapper]: https://github.com/simonepri/edgelist-mapper
