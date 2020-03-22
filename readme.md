@@ -35,7 +35,7 @@ Every folder contains the following `18` files.
 | `edges_as_id_{train,valid,test}.tsv` | These three files contain the three splits of the dataset where entities and relations are mapped to a numerical ID (i.e. `38	1	2`). Entities and relations that are more frequent are mapped to lower integers (e.g. the entity/relation with ID `0` is the most frequent entity/relation in the dataset).   |
 | `edges_as_id_all.tsv` | The concatenation of `edges_as_id_train.tsv`, `edges_as_id_valid.tsv`, and `edges_as_id_test.tsv`. |
 | `map_entity_id_to_text.tsv` | This file contains the mapping from numerical IDs used for entities in `edges_as_id_*.tsv` to the textual representation used in `edges_as_text_*.tsv` (i.e. `38	italy, 2	europe`). |
-| `map_relation_id_to_text.tsv` | This file contains the mapping from numerical IDs used for relations in `edges_as_id_*.tsv` to the textual representation used in `edges_as_text_*.tsv` (i.e 1	locatedin). |
+| `map_relation_id_to_text.tsv` | This file contains the mapping from numerical IDs used for relations in `edges_as_id_*.tsv` to the textual representation used in `edges_as_text_*.tsv` (i.e `1	locatedin`). |
 | `frequency_entities_{all,train,valid,test}.tsv` | These files contain the frequency of each entity in the various splits of the dataset. |
 | `frequency_relations_{all,train,valid,test}.tsv` | These files contain the frequency of each relation in the various splits of the dataset. |
 
