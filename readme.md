@@ -20,6 +20,8 @@ It also standardizes the format of these datasets, making it easier to use them 
 The [datasets](#datasets) can be downloaded from the [release page][release].  
 For licensing information, please refer to the original dataset license file.
 
+If you are using this collection of datasets please consider to start ⭐️ the project to support it.
+
 
 ## Datasets format
 
