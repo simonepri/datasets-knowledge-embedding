@@ -97,6 +97,8 @@ The link to the original dataset as released by the authors is unknown but a cop
 This dataset was introduced in [Translating Embeddings for Modeling Multi-relational Data](https://dl.acm.org/doi/10.5555/2999792.2999923).  
 The original dataset as released by the authors is available [here](https://everest.hds.utc.fr/doku.php?id=en:transe).
 
+> Entities in this dataset are represented trough the Freebase ids (i.e. `/m/07l450, /film/film/genre, /m/082gq`). Since they are hard to read we are considering to map them to Wikipedia pages (i.e. `The_Last_King_of_scotland_(film), /film/film/genre, War_film`).
+
 | Entities | Relation Types | Edges | Train Edges | Validation Edges | Test Edges |
 |----------|----------------|-------|-------------|------------------|------------|
 | 14951 | 1345 | 592213 | 483142 | 50000 | 59071 |
@@ -108,6 +110,8 @@ The original dataset as released by the authors is available [here](https://ever
 ### FB15K-237
 This dataset was introduced in [Observed versus latent features for knowledge base and text inference](https://www.aclweb.org/anthology/W15-4007/).  
 The original dataset as released by the authors is available [here](https://www.microsoft.com/en-us/download/details.aspx?id=52312).
+
+> Entities in this dataset are represented trough the Freebase ids (i.e. `/m/07l450, /film/film/genre, /m/082gq`). Since they are hard to read we are considering to map them to Wikipedia pages (i.e. `The_Last_King_of_scotland_(film), /film/film/genre, War_film`).
 
 | Entities | Relation Types | Edges | Train Edges | Validation Edges | Test Edges |
 |----------|----------------|-------|-------------|------------------|------------|
@@ -157,6 +161,8 @@ The original dataset as released by the authors is available [here](http://www.c
 This dataset was introduced in [Translating Embeddings for Modeling Multi-relational Data](https://dl.acm.org/doi/10.5555/2999792.2999923).  
 The original dataset as released by the authors is available [here](https://everest.hds.utc.fr/doku.php?id=en:transe).
 
+> In the original dataset, the entities are represented trough the WordNet offset id (i.e. `01257145 derivationally_related_form 07488875`), but the version distributed here has the offsets mapped to WordNet synsets that can be read by the `nltk` library (i.e. `sensual.s.02	derivationally_related_form	sensuality.n.01`).
+
 | Entities | Relation Types | Edges | Train Edges | Validation Edges | Test Edges |
 |----------|----------------|-------|-------------|------------------|------------|
 | 41105 | 18 | 151442 | 141442 | 5000 | 5000 |
@@ -168,6 +174,8 @@ The original dataset as released by the authors is available [here](https://ever
 ### WN18RR
 This dataset was introduced in [Convolutional 2D Knowledge Graph Embeddings](https://arxiv.org/abs/1707.01476).  
 The original dataset as released by the authors is available [here](https://github.com/TimDettmers/ConvE).
+
+> In the original dataset, the entities are represented trough the WordNet offset id (i.e. `01257145 derivationally_related_form 07488875`), but the version distributed here has the offsets mapped to WordNet synsets that can be read by the `nltk` library (i.e. `sensual.s.02	derivationally_related_form	sensuality.n.01`).
 
 | Entities | Relation Types | Edges | Train Edges | Validation Edges | Test Edges |
 |----------|----------------|-------|-------------|------------------|------------|
